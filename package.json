@@ -1,7 +1,18 @@
 {
   "name": "fizz-buzz-javascript",
+  "discription": "fizz buzz implemented in javascript es6",
   "version": "0.0.0",
-  "discription": "fizz buzz implemented in javascript",
+  "author": "Eder fanedercode@gmail.com",
+  "keywords": ["es6", "mocha", "chai", "javascript", "tdd", "kata", "fizz game"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faneder/fizzbuzz-game-kata-testing"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faneder/fizzbuzz-game-kata-testing/issues"
+  },
+  "homepage": "https://github.com/faneder/fizzbuzz-game-kata-testing#readme",
   "scripts": {
     "test": "mocha -w"
   },
