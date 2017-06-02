@@ -1,0 +1,14 @@
+{
+  "name": "fizz-buzz-javascript",
+  "version": "0.0.0",
+  "discription": "fizz buzz implemented in javascript",
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "author": "Eder",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "~1.9.0",
+    "mocha": "3.2.0"
+  }
+}
